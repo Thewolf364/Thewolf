@@ -4,15 +4,15 @@
 
 ## 🧠Skils
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Thewolf364">
     <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,python" />
   </a>
 </p>
 
 ## ⚙️Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://github.com/Thewolf364/">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,,vim" />
   </a>
 </p>
 
