@@ -12,7 +12,7 @@
 ## ⚙️Tools
 <p align="center">
   <a href="https://github.com/Thewolf364/">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,wordpress,git,github,kubernetes,docker,vim" />
   </a>
 </p>
 
