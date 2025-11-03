@@ -3,9 +3,13 @@
 
 
 ## 🧠Skils
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,python,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,c++,python" />
+  </a>
+</p>
 
-##⚙️ Tools
+## ⚙️Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
